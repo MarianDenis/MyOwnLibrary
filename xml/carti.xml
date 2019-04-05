@@ -1,0 +1,65 @@
+<carti>
+	<carte>
+
+		<id>1</id>
+		<title>Razboiul Lumilor</title>
+		<autor>H. G. Wells</autor>
+		<editura>Litera </editura>
+		<limba>Engleză</limba>
+		<anul>2017</anul>
+		<descriere>  Razboiul lumilor prezinta povestea unei invazii extraterestre care ii ia prin surprindere pe pamanteni. Interesant este ca invadatorii martieni respecta regulile biologiei si ale fizicii, astfel incat, desi sunt net superiori pamantenilor din punct de vedere tehnologic, au dificultati in a se misca liber din cauza ca atmosfera Pamantului este mai densa decat aceea a planetei de unde vin. Inteliediturata lor superioara le permite sa inventeze arme distrugatoare cum ar fi Heat‑Ray („Raza Parjolitoare”), un fel de tun cu laser care poate rade de pe fata pamantului orase intregi.</descriere>
+		<src>images2/carti/razb_lumilor.jpg</src>
+
+	</carte>
+	<carte>
+
+		<id>2</id>
+		<title>1984</title>
+		<autor>George Orwell</autor>
+		<editura>Corint</editura>
+		<limba>Engleză</limba>
+		<anul>2017</anul>
+		<descriere> Romanul descrie o Mare Britanie posterioară unui război nuclear ipotetic dintre Est și Vest, care ar fi avut loc în anii '50, în care s-a instaurat un regim de tip totalitar foarte inspirat din ceea ce a fost stalinismul și din anumite elemente ale nazismului. Libertatea de expresie ca atare nu mai există. Toate gândurile sunt minuțios supravegheate, iar imense afișe, care tronează pe străzi, indică tuturor că
+„Big Brother stă cu ochii pe tine”, în engleză Big Brother is watching you.</descriere>
+		<src>images2/carti/1984.jpg</src>
+
+	</carte>
+	<carte>
+
+		<id>3</id>
+		<title>Rosu si Negru</title>
+		<autor>Stendhal</autor>
+		<editura>Libris</editura>
+		<limba>Franceza</limba>
+		<anul>2017</anul>
+		<descriere>„Romanul central al lui Stendhal poarta un titlu care ar putea simboliza oarecum tabla de sah a intregii sale opere romanesti. Desigur, el insusi ne spune ca prin Rosu si Negru intelege cariera militara si cariera ecleziastica, jucandu-si fiecare rolul in destinul lui Julien Sorel. […] Prezenta, gradul sau absenta energiei, iata ce hotaraste un destin. Jocul presupune o directie, sau un dedesubt, si anume energia. Iata de ce Stendhal trebuia firesc sa-si gaseasca marele subiect si marea opera in romanul energiei, Rosu si Negru.“ – Albert Thibaudet</descriere>
+		<src>images2/carti/rosu_negru.jpg</src>
+
+	</carte>
+	<carte>
+
+		<id>4</id>
+		<title>Moby Dick</title>
+		<autor>Herman Mellvile</autor>
+		<editura>Litera</editura>
+		<limba>Engleză</limba>
+		<anul>2017</anul>
+		<descriere>
+		 Moby Dick (The Whale), romanul scriitorului american Herman Melville, roman alegoric, epopee a spiritului uman in dramatica inclestare cu fortele naturii, publicat prima data in anul 1851, este considerat a fi o capodopera a literaturii universale.
+		 Romanul, dedicat prietenului sau, scriitorul Nathaniel Hawthorne, care i-a influentat autorului cariera, istoriseste aventurile capitanului navei Pequod, Ahab, obsedat de dorinta sa de a ucide leedituradara balena alba, Moby Dick, din cauza careia isi distrusese o gamba.
+		</descriere>
+		<src>images2/carti/moby.jpg</src>
+	</carte>
+	<carte>
+
+		<id>5</id>
+		<title>Crima si pedeapsa</title>
+		<autor>F. Dostoievski</autor>
+		<editura>Litera</editura>
+		<limba>Rusa</limba>
+		<anul>2017</anul>
+		<descriere> Publicat pentru prima oara sub forma de foileton in revista Russki Vestnik pe tot parcursul anului 1866, romanul Crima si pedeapsa este o analiza psihologica a crimei si a implicatiilor sale morale. „O fiinta superioara are oare dreptul sa savarseasca o crima daca aceasta este in folosul intregii umanitati?” – iata intrebarea care il macina necontenit pe Raskolnikov, un fost student idealist, excentric si mizantrop, in ceasurile lungi de meditatie din odaia sa stramta de la mansarda. Sub presiunea saraciei cumplite, a insingurarii si a sentimentului de zadarnicie a tuturor aspiratiilor sale, aceasta teorie indrazneata este pusa peste noapte in aplicare, ducand la un dublu asasinat de o salbaticie care zguduie intreg orasul Sankt Petersburg. 
+    </descriere>
+		<src>images2/carti/crima.jpg</src>
+	</carte>
+</carti>
